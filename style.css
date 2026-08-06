@@ -1118,3 +1118,15 @@ font-size:24px;
 }
 
 }
+.nav-links.active{
+    display:flex;
+    position:absolute;
+    top:90px;
+    left:0;
+    width:100%;
+    background:#fff;
+    flex-direction:column;
+    padding:25px;
+    gap:20px;
+    box-shadow:0 10px 30px rgba(0,0,0,.1);
+}
