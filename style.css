@@ -149,7 +149,7 @@ HERO
 .hero{
 
     min-height:100vh;
-    background:url(images/hero.jpg) center center/cover;
+    background:url(hero.jpg) center center/cover;
     position:relative;
     display:flex;
     align-items:center;
